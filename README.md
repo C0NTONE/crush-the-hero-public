@@ -1,6 +1,6 @@
 # Crush the Hero
 
-Please download our latest release for 
+Please download our latest release!
 
 [![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/USER/PROJECT/releases/latest/download/CrushTheHero-Windows.zip)
 
